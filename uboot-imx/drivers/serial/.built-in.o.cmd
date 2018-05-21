@@ -1,0 +1,1 @@
+cmd_drivers/serial/built-in.o :=  /home/desk/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o drivers/serial/built-in.o drivers/serial/serial.o drivers/serial/serial_mxc.o 

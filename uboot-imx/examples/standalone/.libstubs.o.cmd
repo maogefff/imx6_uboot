@@ -1,0 +1,1 @@
+cmd_examples/standalone/libstubs.o := /home/desk/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o examples/standalone/libstubs.o examples/standalone/stubs.o

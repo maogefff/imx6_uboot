@@ -1,0 +1,1 @@
+cmd_drivers/power/fuel_gauge/built-in.o :=  rm -f drivers/power/fuel_gauge/built-in.o; /home/desk/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ar rcs drivers/power/fuel_gauge/built-in.o

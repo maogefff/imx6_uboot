@@ -1,0 +1,1 @@
+cmd_drivers/i2c/built-in.o :=  /home/desk/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o drivers/i2c/built-in.o drivers/i2c/i2c_core.o drivers/i2c/mxc_i2c.o 
