@@ -1,3 +1,0 @@
-sf.c:43:5:spi_flash_cmd_read	24	static
-sf.c:49:5:spi_flash_cmd	24	static
-sf.c:54:5:spi_flash_cmd_write	24	static

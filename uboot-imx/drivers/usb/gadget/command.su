@@ -1,4 +1,0 @@
-command.c:34:12:write_command.constprop	32	static
-command.c:13:12:read_command.constprop	32	static
-command.c:65:5:recovery_check_and_clean_command	8	static
-command.c:80:5:fastboot_check_and_clean_command	8	static

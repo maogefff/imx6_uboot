@@ -1,1 +1,0 @@
-cmd_drivers/power/pmic/built-in.o :=  /home/desk/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o drivers/power/pmic/built-in.o drivers/power/pmic/pmic_pfuze100.o 

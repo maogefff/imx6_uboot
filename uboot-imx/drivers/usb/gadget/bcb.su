@@ -1,4 +1,0 @@
-bcb.c:38:12:do_write.part.0	120	static
-bcb.c:38:12:do_write	8	static
-bcb.c:14:6:set_mmc_id	0	static
-bcb.c:106:5:rw_block	176	static

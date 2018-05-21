@@ -1,1 +1,0 @@
-cmd_drivers/crypto/fsl/built-in.o :=  /home/desk/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-ld.bfd     -r -o drivers/crypto/fsl/built-in.o drivers/crypto/fsl/sec.o 

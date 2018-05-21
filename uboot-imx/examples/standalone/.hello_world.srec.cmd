@@ -1,1 +1,0 @@
-cmd_examples/standalone/hello_world.srec := /home/desk/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-objcopy -O srec  examples/standalone/hello_world examples/standalone/hello_world.srec
